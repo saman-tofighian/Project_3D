@@ -13,16 +13,16 @@ export default function Home() {
     },
     {
       id: 2,
-      pic: "../static/pic/chrome-capture-2025-2-16.png",
+      pic: "../static/pic/chrome-capture-2025-2-24.png",
       demo: "https://monitor3-d-ha3o.vercel.app/",
       source: "https://github.com/saman-tofighian/Monitor3D",
       text: "Monitor3D",
     },
     {
       id: 3,
-      pic: "../static/pic/chrome-capture-2025-2-16 (1).png",
-      demo: "https://air-jordan-3-d.vercel.app/",
-      source: "https://github.com/saman-tofighian/air-jordan_3D",
+      pic: "../static/pic/chrome-capture-2025-2-24 (1).png",
+      demo: "https://air-jordan-r3-f.vercel.app/",
+      source: "https://github.com/saman-tofighian/air_jordan_R3F",
       text: "air-jordan_3D",
     },
     {
@@ -87,7 +87,7 @@ export default function Home() {
               <figure className="w-full">
                 <img
                   src={val.pic}
-                  className="w-[340px] h-[340px] md:w-[500px] lg:w-[700px] md:h-[400px] bg-cover rounded-xl"
+                  className="w-[340px] h-[340px] md:w-[500px] lg:w-[700px] md:h-[400px] bg-cover rounded-xl "
                   alt=""
                 />
               </figure>
