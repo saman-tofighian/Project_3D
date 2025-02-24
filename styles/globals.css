@@ -6,3 +6,12 @@ body {
   overflow-x: hidden;
   background: #123;
 }
+div > figure > img {
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+  transition: all 0.3s linear;
+}
+div:hover > figure > img {
+  filter: blur(0);
+  -webkit-filter: blur(0);
+}
