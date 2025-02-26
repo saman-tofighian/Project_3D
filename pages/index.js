@@ -41,7 +41,7 @@ export default function Home() {
     },
     {
       id: 6,
-      pic: "../static/pic/chrome-capture-2025-2-16 (4).png",
+      pic: "../static/pic/chrome-capture-2025-2-26.png",
       demo: "https://sun-glasses-3-d.vercel.app/",
       source: "https://github.com/saman-tofighian/SunGlasses_3D",
       text: "SunGlasses_3D",
