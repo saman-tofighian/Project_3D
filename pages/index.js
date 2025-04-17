@@ -6,7 +6,7 @@ export default function Home() {
   const [data] = useState([
     {
       id: 1,
-      pic: "../static/pic/shirt.png",
+      pic: "../static/pic/diamond.png",
       demo: "https://diamond-ring-3-d.vercel.app/",
       source: "https://github.com/saman-tofighian/DiamondRing_3D",
       text: "Diamond",
